@@ -123,6 +123,7 @@ Legenda:
 1. [Tejszerska Aleksandra](https://github.com/atejszerska) 7.11
 1. [Wiśniewski Jakub](https://github.com/jawisniewski)
 1. [Zdybel Patryk](https://github.com/DyuQ) 24.10
+1. [Mazur Ewelina] (https://github.com/evmazur/Ruby)
 
 
 ### Grupa 2
